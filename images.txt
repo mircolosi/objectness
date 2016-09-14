@@ -1,0 +1,4 @@
+images/objTable-1.jpg
+images/objTable-2.jpg
+images/office-desk-12.jpg
+images/giraffa.jpg
